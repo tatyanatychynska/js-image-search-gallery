@@ -6,6 +6,9 @@
 
 A simple image search app built with vanilla JavaScript and Vite. Users search for images via the [Pixabay API](https://pixabay.com/api/docs/), view results in a responsive gallery with a lightbox, and load more results in pages.
 
+<img width="1179" height="1268" alt="image" src="https://github.com/user-attachments/assets/e86d55f1-b886-4fb3-a91a-0f2770b7a110" />
+
+
 ## Features
 
 - Search images by keyword using the Pixabay API

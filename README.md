@@ -2,7 +2,7 @@
 
 > Course project — [GoIT Full Stack Web Development](https://goit.global/) program.
 
-🔗 **Live demo:** [tatyanatychynska.github.io/goit-js-hw-12](https://tatyanatychynska.github.io/goit-js-hw-12/)
+🔗 **Live demo:** https://tatyanatychynska.github.io/js-image-search-gallery/
 
 A simple image search app built with vanilla JavaScript and Vite. Users search for images via the [Pixabay API](https://pixabay.com/api/docs/), view results in a responsive gallery with a lightbox, and load more results in pages.
 
